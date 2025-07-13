@@ -30,6 +30,10 @@ A Python-based GUI tool that evaluates the strength of passwords in real-time us
 - Entropy calculation logic for strength rating
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+---
 
 ## 🧪 How to Run
 
